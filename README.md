@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/sayskytoo" target="blank"><img src="https://img.shields.io/twitter/follow/sayskytoo?logo=twitter&style=for-the-badge" alt="sayskytoo" /></a> </p>
 
-- 🌱 I’m currently learning **Fullstack Development**
+- 🌱 I’m currently learning **MERN Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/saysky2](https://linktr.ee/saysky2)
 
